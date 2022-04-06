@@ -1,19 +1,13 @@
 # Jornada de Estudos
 
-### Primeiros certificados
+#### Primeiros certificados
 
-- Pensamento Computacional
-  
-  ![](C:\Users\edila\OneDrive\Área%20de%20Trabalho\Certificados%20DIO\Pensamento%20Computacional.jpg)
+- <u>Pensamento Computacional</u>
 
-- Lógica de Programação
-  
-  ![](C:\Users\edila\OneDrive\Área%20de%20Trabalho\Certificados%20DIO\Lógica%20de%20Programação%20Essencial.jpg)
+- <u>Lógica de Programação</u>
 
-- Introdução  ao Git e ao GitHub
-  
-  ![](C:\Users\edila\OneDrive\Área%20de%20Trabalho\Certificados%20DIO\Introdução%20ao%20Git%20e%20GitHub.jpg)
+- <u>Introdução  ao Git e ao GitHub</u>
 
-- Projetos ágeis com SCRUM
-  
-  ![](C:\Users\edila\OneDrive\Área%20de%20Trabalho\Certificados%20DIO\Projetos%20ágeis%20com%20SCRUM.jpg)
+- <u>Projetos ágeis com SCRUM</u>
+
+
